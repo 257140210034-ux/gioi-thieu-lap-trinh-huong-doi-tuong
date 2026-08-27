@@ -10,8 +10,6 @@
 | 4 | Phạm Lê Nhật Minh | Thành viên | Các khái niệm cơ bản – Phần 1 | branch-nhatminh |
 | 5 | Nguyễn Ngọc Bảo Trang | Thành viên | Các khái niệm cơ bản – Phần 2 | branch-baotrang |
 
----
-
 ## 2. Nội dung
 
 ### 2.1. Phương pháp tiếp cận hướng đối tượng
@@ -32,8 +30,6 @@ Quá trình phân tích và thiết kế hướng đối tượng gồm:
 4. Mô hình hóa lớp đối tượng.
 5. Thiết kế tổng quan.
 6. Thiết kế chi tiết.
-
----
 
 ### 2.2. Các khái niệm cơ bản
 
@@ -68,8 +64,6 @@ Các bước tiến hành:
 
 Là quá trình mô hình hóa các thuộc tính của lớp dựa trên các thuộc tính của các đối tượng tương ứng.
 
----
-
 ### 2.3. Các tính chất cơ bản
 
 #### 2.3.1. Kế thừa
@@ -88,8 +82,6 @@ Là quá trình mô hình hóa các thuộc tính của lớp dựa trên các t
 
 - Cho phép các lớp định nghĩa các phương thức trùng nhau.
 - Khi gọi các phương thức trùng tên, dựa vào đối tượng đang gọi mà chương trình sẽ thực hiện phương thức của lớp tương ứng.
-
----
 
 ## 3. Phân công chi tiết
 
